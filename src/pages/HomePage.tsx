@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect, createContext } from 'react';
+import { useState, useEffect, createContext } from 'react';
 import { Github, Linkedin, Mail, Moon, Sun, Globe } from 'lucide-react';
 
 // Create a context for language
